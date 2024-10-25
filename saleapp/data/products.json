@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "Iphone 15 pro max",
+    "price": 2000000000,
+    "image": "https://thuythithi.com/wp-content/uploads/2021/07/nuoi-cho-con-cho-de-khong-cach-nuoi-cho-con-tot-nhat3.jpeg",
+    "category_id": 1
+  },
+  {
+    "id": 1,
+    "name": "Iphone 12 pro max",
+    "price": 2000000000,
+    "image": "https://thuythithi.com/wp-content/uploads/2021/07/nuoi-cho-con-cho-de-khong-cach-nuoi-cho-con-tot-nhat3.jpeg",
+    "category_id": 1
+  },
+  {
+    "id": 1,
+    "name": "Galaxy 13 pro max",
+    "price": 2000000000,
+    "image": "https://thuythithi.com/wp-content/uploads/2021/07/nuoi-cho-con-cho-de-khong-cach-nuoi-cho-con-tot-nhat3.jpeg",
+    "category_id": 1
+  },
+  {
+    "id": 1,
+    "name": "Iphone 14 pro max",
+    "price": 2000000000,
+    "image": "https://thuythithi.com/wp-content/uploads/2021/07/nuoi-cho-con-cho-de-khong-cach-nuoi-cho-con-tot-nhat3.jpeg",
+    "category_id": 1
+  },
+  {
+    "id": 1,
+    "name": "Iphone 16 pro max",
+    "price": 2000000000,
+    "image": "https://thuythithi.com/wp-content/uploads/2021/07/nuoi-cho-con-cho-de-khong-cach-nuoi-cho-con-tot-nhat3.jpeg",
+    "category_id": 1
+  }
+
+]
