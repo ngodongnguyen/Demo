@@ -5,7 +5,8 @@ app=Flask(__name__)
 def index():
     categories=dao.load_categories()
     q = request.args.get("q")
-    products=dao.load_products(q)
+    cate_id=request.args.get("category_id")
+    products=dao.load_products(q,cate_id)
 
     print(q)
     return render_template("index.html",categories=categories,products=products)
